@@ -1,4 +1,4 @@
-# TOD Project Landing Page
+# TOP Project Landing Page
 
 ## Project Detials
 - Tried to use BEM (Block, Element, Modifier) convention for css naming
